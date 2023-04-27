@@ -234,4 +234,5 @@ df = pd.DataFrame({
 # plotting graph
 # df.update_layout(title='T_net vs V_anchor', xaxis_title='T_net (lb)', yaxis_title='V_anchor (lb)')
 
+
 st.bar_chart(df)
